@@ -1,2 +1,3 @@
-# homework-shell
-Sort folder with Bash
+# homework
+
+1. Task - Sort folder. [Completed]
